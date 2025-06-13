@@ -1,9 +1,10 @@
 # Pi-hole
+
 Today, I focused on deepening my knowledge of Linux and system administration:
 
 Learned and practiced essential Linux commands to navigate the terminal and manage files and processes.
 
- tudied the difference between Type 1 and Type 2 hypervisors, understanding how they are used in virtualization environments.
+Studied the difference between Type 1 and Type 2 hypervisors, understanding how they are used in virtualization environments.
 
 Explored VMware as a Type 2 hypervisor and learned how to create and manage virtual machines with it.
 
